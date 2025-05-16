@@ -50,7 +50,7 @@
 <script setup>
 import { ref } from "vue";
 // import MyTable from "./components/MyTable.vue";
-import MyTable from "./components/MyTable.vue";
+import MyTable from "./components/mytable.vue";
 const goodsList = ref([
   {
     id: 1,
